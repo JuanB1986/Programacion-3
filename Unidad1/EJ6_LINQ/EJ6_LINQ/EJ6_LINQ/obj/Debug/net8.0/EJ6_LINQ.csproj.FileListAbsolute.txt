@@ -1,0 +1,15 @@
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\bin\Debug\net8.0\EJ6_LINQ.exe
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\bin\Debug\net8.0\EJ6_LINQ.deps.json
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\bin\Debug\net8.0\EJ6_LINQ.runtimeconfig.json
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\bin\Debug\net8.0\EJ6_LINQ.dll
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\bin\Debug\net8.0\EJ6_LINQ.pdb
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.AssemblyInfo.cs
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.sourcelink.json
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.dll
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\refint\EJ6_LINQ.dll
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.pdb
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\EJ6_LINQ.genruntimeconfig.cache
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ6_LINQ\EJ6_LINQ\EJ6_LINQ\obj\Debug\net8.0\ref\EJ6_LINQ.dll

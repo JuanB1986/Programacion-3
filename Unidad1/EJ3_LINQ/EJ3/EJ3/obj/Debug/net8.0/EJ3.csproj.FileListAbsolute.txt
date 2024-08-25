@@ -1,0 +1,15 @@
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\bin\Debug\net8.0\EJ3.exe
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\bin\Debug\net8.0\EJ3.deps.json
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\bin\Debug\net8.0\EJ3.runtimeconfig.json
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\bin\Debug\net8.0\EJ3.dll
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\bin\Debug\net8.0\EJ3.pdb
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.AssemblyInfo.cs
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.csproj.CoreCompileInputs.cache
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.sourcelink.json
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.dll
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\refint\EJ3.dll
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.pdb
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\EJ3.genruntimeconfig.cache
+C:\Users\JM\Desktop\UTN\3er Cuatrimestre\Programación 3\Repositorio\Unidad1\EJ3_LINQ\EJ3\EJ3\obj\Debug\net8.0\ref\EJ3.dll

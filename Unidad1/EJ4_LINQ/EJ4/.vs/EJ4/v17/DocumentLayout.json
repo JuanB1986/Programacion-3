@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Unidad1\\EJ4_LINQ\\EJ4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4DDBFF-2DBB-4855-854B-103C59CA3CFA}|EJ4\\EJ4.csproj|c:\\users\\jm\\desktop\\utn\\3er cuatrimestre\\programaci\u00F3n 3\\repositorio\\unidad1\\ej4_linq\\ej4\\ej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4DDBFF-2DBB-4855-854B-103C59CA3CFA}|EJ4\\EJ4.csproj|solutionrelative:ej4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Unidad1\\EJ4_LINQ\\EJ4\\EJ4\\Program.cs",
+              "RelativeDocumentMoniker": "EJ4\\Program.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Unidad1\\EJ4_LINQ\\EJ4\\EJ4\\Program.cs",
+              "RelativeToolTip": "EJ4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:48:35.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

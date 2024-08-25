@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Unidad1\\EJ7_LINQ\\EJ7_LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{774471C2-BA06-4821-AC88-A5D60D1059EE}|EJ7_LINQ\\EJ7_LINQ.csproj|c:\\users\\jm\\desktop\\utn\\3er cuatrimestre\\programaci\u00F3n 3\\repositorio\\unidad1\\ej7_linq\\ej7_linq\\ej7_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774471C2-BA06-4821-AC88-A5D60D1059EE}|EJ7_LINQ\\EJ7_LINQ.csproj|solutionrelative:ej7_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Unidad1\\EJ7_LINQ\\EJ7_LINQ\\EJ7_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "EJ7_LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Unidad1\\EJ7_LINQ\\EJ7_LINQ\\EJ7_LINQ\\Program.cs",
+              "RelativeToolTip": "EJ7_LINQ\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:21:37.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
