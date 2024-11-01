@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EJ1_LINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa6faa08f261a6eaab15ed64ffcb9ca3e069b556")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a42518a043f4992c7cb83179c8173faf270119")]
 [assembly: System.Reflection.AssemblyProductAttribute("EJ1_LINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EJ1_LINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

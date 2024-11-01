@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE67C7C-BDEA-4D78-ADDC-CF5708D83F8A}|Clean Architecture\\CleanArchitecture.csproj|c:\\users\\jm\\desktop\\utn\\3er cuatrimestre\\programaci\u00F3n 3\\repositorio\\clean architecture\\clean architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE67C7C-BDEA-4D78-ADDC-CF5708D83F8A}|Clean Architecture\\CleanArchitecture.csproj|solutionrelative:clean architecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048988C0-AEF7-4CC4-B79B-92B2D865C03A}|Infrastructure\\Infrastructure.csproj|c:\\users\\jm\\desktop\\utn\\3er cuatrimestre\\programaci\u00F3n 3\\repositorio\\clean architecture\\infrastructure\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048988C0-AEF7-4CC4-B79B-92B2D865C03A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373474F-052C-4FC1-86B8-53B87A7059AC}|Presentation\\Presentation.csproj|c:\\users\\jm\\desktop\\utn\\3er cuatrimestre\\programaci\u00F3n 3\\repositorio\\clean architecture\\presentation\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373474F-052C-4FC1-86B8-53B87A7059AC}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7CC37B-1566-4CF3-94F1-64704D808EBB}|Application\\Application.csproj|c:\\users\\jm\\desktop\\utn\\3er cuatrimestre\\programaci\u00F3n 3\\repositorio\\clean architecture\\application\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7CC37B-1566-4CF3-94F1-64704D808EBB}|Application\\Application.csproj|solutionrelative:application\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904904C9-F9B0-4F26-8BC7-E2159B41CA70}|Domain\\Domain.csproj|c:\\users\\jm\\desktop\\utn\\3er cuatrimestre\\programaci\u00F3n 3\\repositorio\\clean architecture\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904904C9-F9B0-4F26-8BC7-E2159B41CA70}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Infrastructure\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Infrastructure\\MyDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:15:06.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Clean Architecture\\Program.cs",
+              "RelativeDocumentMoniker": "Clean Architecture\\Program.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Clean Architecture\\Program.cs",
+              "RelativeToolTip": "Clean Architecture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:23:30.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Presentation\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Presentation\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:46:11.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Application\\Services\\PersonaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Application\\Services\\PersonaService.cs",
+              "RelativeToolTip": "Application\\Services\\PersonaService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:40:17.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\UTN\\3er Cuatrimestre\\Programaci\u00F3n 3\\Repositorio\\Clean Architecture\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:13:52.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

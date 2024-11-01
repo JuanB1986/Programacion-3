@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Repaso3.props" />
+</Project>

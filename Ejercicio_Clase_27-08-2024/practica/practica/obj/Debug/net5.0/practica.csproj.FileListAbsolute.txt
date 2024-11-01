@@ -1,0 +1,63 @@
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\practica.exe
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\practica.deps.json
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\practica.runtimeconfig.json
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\practica.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\practica.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\ref\practica.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\practica.pdb
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\practica.StaticWebAssets.Manifest.cache
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\practica.StaticWebAssets.xml
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\scopedcss\bundle\practica.styles.css
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.csproj.CopyComplete
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\ref\practica.dll
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.pdb
+C:\Users\Administrador\Desktop\practica - 27-08-2024\ejercicio\practica\practica\obj\Debug\net5.0\practica.genruntimeconfig.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\appsettings.json
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\practica.StaticWebAssets.xml
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\practica.exe
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\practica.deps.json
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\practica.runtimeconfig.json
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\practica.runtimeconfig.dev.json
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\practica.dll
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\practica.pdb
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JM\Desktop\ejercicio\practica\practica\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.csproj.AssemblyReference.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.AssemblyInfo.cs
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.RazorTargetAssemblyInfo.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\scopedcss\bundle\practica.styles.css
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\practica.StaticWebAssets.Manifest.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\practica.StaticWebAssets.Pack.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\msbuild.practica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\msbuild.build.practica.props
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.practica.props
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.practica.props
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.csproj.Up2Date
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.dll
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\refint\practica.dll
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.pdb
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\practica.genruntimeconfig.cache
+C:\Users\JM\Desktop\ejercicio\practica\practica\obj\Debug\net5.0\ref\practica.dll

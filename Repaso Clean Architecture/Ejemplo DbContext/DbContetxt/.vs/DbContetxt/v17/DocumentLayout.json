@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{4596D7EC-C937-4954-9A6B-3AB9F09D1DBD}|DbContetxt\\DbContetxt.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\dbcontetxt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{4596D7EC-C937-4954-9A6B-3AB9F09D1DBD}|DbContetxt\\DbContetxt.csproj|solutionrelative:dbcontetxt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{4596D7EC-C937-4954-9A6B-3AB9F09D1DBD}|DbContetxt\\DbContetxt.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\dbcontetxt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{4596D7EC-C937-4954-9A6B-3AB9F09D1DBD}|DbContetxt\\DbContetxt.csproj|solutionrelative:dbcontetxt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77B421A-DD22-4AFE-B310-807710CFD84A}|Presentation\\Presentation.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77B421A-DD22-4AFE-B310-807710CFD84A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B13A2-F068-438E-962C-604ECF4189BF}|Application\\Application.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B13A2-F068-438E-962C-604ECF4189BF}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA864DFB-CA84-4954-BF62-CE3E08A0E6AD}|Infrastructure\\Infrastructure.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA864DFB-CA84-4954-BF62-CE3E08A0E6AD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B13A2-F068-438E-962C-604ECF4189BF}|Application\\Application.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619B13A2-F068-438E-962C-604ECF4189BF}|Application\\Application.csproj|solutionrelative:application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA864DFB-CA84-4954-BF62-CE3E08A0E6AD}|Infrastructure\\Infrastructure.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\infrastructure\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA864DFB-CA84-4954-BF62-CE3E08A0E6AD}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA84505-D91A-4A7E-AC6C-252432CFD81B}|Doamin\\Domain.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\doamin\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA84505-D91A-4A7E-AC6C-252432CFD81B}|Doamin\\Domain.csproj|solutionrelative:doamin\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA84505-D91A-4A7E-AC6C-252432CFD81B}|Doamin\\Domain.csproj|c:\\users\\jm\\desktop\\repaso clean architecture\\ejemplo dbcontext\\dbcontetxt\\doamin\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCA84505-D91A-4A7E-AC6C-252432CFD81B}|Doamin\\Domain.csproj|solutionrelative:doamin\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\DbContetxt\\Program.cs",
+              "RelativeDocumentMoniker": "DbContetxt\\Program.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\DbContetxt\\Program.cs",
+              "RelativeToolTip": "DbContetxt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:14:41.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:04:03.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Infrastructure\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Infrastructure\\ApplicationContext.cs",
+              "RelativeToolTip": "Infrastructure\\ApplicationContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:00:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\DbContetxt\\Program.cs",
+              "RelativeDocumentMoniker": "DbContetxt\\Program.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\DbContetxt\\Program.cs",
+              "RelativeToolTip": "DbContetxt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:02:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA9wAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:55:02.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:53:33.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Application\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Application\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Application\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:45:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Doamin\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Doamin\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Doamin\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Doamin\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:15:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Doamin\\Domain.csproj",
+              "RelativeDocumentMoniker": "Doamin\\Domain.csproj",
+              "ToolTip": "C:\\Users\\JM\\Desktop\\Repaso Clean Architecture\\Ejemplo DbContext\\DbContetxt\\Doamin\\Domain.csproj",
+              "RelativeToolTip": "Doamin\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T13:49:03.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
